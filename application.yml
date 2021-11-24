@@ -17,6 +17,6 @@ microservice:
       endpoint:
         url: http://order-service/api/order
   payment-service:
-  endpoints:
-    endpoint:
-      url: http://payment-service/api/payment
+    endpoints:
+      endpoint:
+        url: http://payment-service/api/payment
